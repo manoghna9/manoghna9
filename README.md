@@ -1,4 +1,10 @@
 ## Hi there 👋
+# I'm Manoghna! 👋
+
+## 🐱 My GitHub Pet
+
+<img src="https://github-widget-blond.vercel.app/api/pet" alt="My GitHub Commit Streak" width="330" />
+
 
 <!--
 **manoghna9/manoghna9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
